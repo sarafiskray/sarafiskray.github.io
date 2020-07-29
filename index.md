@@ -6,7 +6,7 @@
 
 [DJAZE iOS](/djaze)
 
-<img src="images/spotifyfire.png?raw=true" width=100%/>
+<img src="images/spotifyfire.png?raw=true" width=100% />
 
 ---
 [Italian Restaurant Website](/italian)
@@ -21,12 +21,12 @@
 ---
 [Millenial Recipe System](/recipe)
 
-<img src="images/millenial.png?raw=true">
+<img src="images/millenial.png?raw=true" />
 
 ---
 [Landlord Watchlist](/pubadv)
 
-<img src="images/pubadv2.jpg?raw=true" width=100%>
+<img src="images/pubadv2.jpg?raw=true" width=100% />
 
 ---
 [Raspberry Pi Car Music Player](/rpi)
