@@ -2,34 +2,34 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[DJAZE iOS](/djaze)
+<img src="images/spotifyfire.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Italian Restaurant Website](/italian)
+<img src="images/italianresto.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[VTrans RFID Project](/vtrans)
+<img src="images/vtranslogo.png?raw=true"/>
 
 ---
-
-
-
+[Millenial Recipe System](/recipe)
+<img src="images/millenial.png?raw=true">
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+[Landlord Watchlist](/pubadv)
+<img src="images/pubadv.jpeg?raw=true">
+
+---
+[Raspberry Pi Car Music Player](/rpi)
+<img src="images/piplayer.png?raw=true"/>
+
+---
+[Simple C++ App](/artgame)
+<img src="images/art.png?raw=true"/>
+
+
+
