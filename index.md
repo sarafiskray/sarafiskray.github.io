@@ -21,7 +21,7 @@
 
 ---
 [Landlord Watchlist](/pubadv)
-<img src="images/pubadv.jpeg?raw=true">
+<img src="images/pubadv2.jpg?raw=true">
 
 ---
 [Raspberry Pi Car Music Player](/rpi)
