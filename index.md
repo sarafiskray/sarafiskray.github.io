@@ -14,7 +14,7 @@
 
 <img src="images/italianresto.png?raw=true"/>
 
-#### You can use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application, but it’s controversial. It’s hard to see trailing whitespace in an editor, and many people accidentally or intentionally put two spaces after every sentence. 
+#### This project is a website for a fake Italian restaurant, created with HTML and CSS.  It was built over a short period of time in order to demonstrate our proficiency in CSS. 
 
 ---
 ## [VTrans RFID Project](/vtrans)
