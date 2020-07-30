@@ -52,3 +52,18 @@ func getCurrentSong() {
 ```
 
 ### You can view all the code at the GitHub Repository [here](https://github.com/sarafiskray/DJAZE).
+
+## Screenshots:
+
+
+<img src="images/launchscreen.png?raw=true" width="100%" />
+
+Launch Screen
+
+<img src="images/djside.png?raw=true" width="100%" />
+
+DJ Side
+
+<img src="images/userside.png?raw=true" width="100%" />
+
+User Side
