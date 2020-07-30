@@ -1,4 +1,4 @@
-# DJAZE iOS
+# [DJAZE iOS](https://github.com/sarafiskray/DJAZE)
 
 <img src="images/spotifyfire.png?raw=true" width="100%" />
 
@@ -51,4 +51,4 @@ func getCurrentSong() {
     }
 ```
 
-### You can view the full code at the GitHub Repository [here](https://github.com/sarafiskray/DJAZE).
+### You can view all the code at the GitHub Repository [here](https://github.com/sarafiskray/DJAZE).
