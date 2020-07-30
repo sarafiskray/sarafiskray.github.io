@@ -7,7 +7,7 @@
 
 <img src="images/spotifyfire.png?raw=true" width="100%"/>
 
-#### You can use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application, but it’s controversial. It’s hard to see trailing whitespace in an editor, and many people accidentally or intentionally put two spaces after every sentence. 
+#### DJAZE is an iOS application designed for bar and partygoers.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebases.
 
 ---
 ## [Italian Restaurant Website](/italian)
