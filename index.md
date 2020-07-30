@@ -7,7 +7,7 @@
 
 <img src="images/spotifyfire.png?raw=true" width="100%"/>
 
-#### DJAZE is an iOS application designed for bar and partygoers.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebases.
+#### DJAZE is an iOS application designed for bar and partygoers, written entirely in Swift.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebases.
 
 ---
 ## [Italian Restaurant Website](/italian)
