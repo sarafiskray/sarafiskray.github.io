@@ -55,15 +55,16 @@ func getCurrentSong() {
 
 ## Screenshots:
 
-
-<img src="images/launchscreen.png?raw=true" />
-
 Launch Screen
-
-<img src="images/djside.png?raw=true"  />
+  
+<img src="images/launchscreen.png?raw=true" />
 
 DJ Side
 
-<img src="images/userside.png?raw=true" s/>
+<img src="images/djside.png?raw=true"  />
 
 User Side
+
+<img src="images/userside.png?raw=true" s/>
+
+
