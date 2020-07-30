@@ -5,11 +5,9 @@
 **Project Description:**
 DJAZE is an iOS application designed to give everyone a voice when it comes to music selection at bars or parties.  It includes a live song request system, using the Spotify Web API and Firebase Firestore, as well as a democratic upvote and downvote feature.  It is a two-sided system, with pages for both DJs/hosts and regular users.  DJAZE is still under development as there are a few features we are still looking to add.
 
-You can view the GitHub Repository [here](https://github.com/sarafiskray/DJAZE).
-
 ## Code Samples:
 
-Here are some examples of functions that I wrote in Swift.
+Here are a couple examples of functions that I wrote in Swift.
 
 The first is the **search** function, where the entire Spotify database is queried based on a search term, and the top three results are placed on buttons, ready to be selected.
 
@@ -52,3 +50,5 @@ func getCurrentSong() {
         }
     }
 ```
+
+### You can view the full code at the GitHub Repository [here](https://github.com/sarafiskray/DJAZE).
