@@ -17,11 +17,11 @@
 #### This project is a website for a fake Italian restaurant, created with HTML and CSS.  It was built over a short period of time in order to demonstrate our proficiency in CSS. 
 
 ---
-## [VTrans RFID Project](/vtrans)
+## [VTrans RFID Sign Management](/vtrans)
 
 <img src="images/vtranslogo.png?raw=true"/>
 
-#### You can use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application, but it’s controversial. It’s hard to see trailing whitespace in an editor, and many people accidentally or intentionally put two spaces after every sentence. 
+#### Funded by the Vermont Agency of Transportation, I worked in a small team of University of Vermont students and professors to develop a complete RFID Traffic Sign Management System.  Traffic signage inventory management is an important, though often overlooked, part of transportation asset management.  I was in charge of development of the mobile reader. 
 
 
 ---
