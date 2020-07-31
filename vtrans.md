@@ -12,3 +12,13 @@ This project was presented at the 2020 Transportation Research Board Annual Meet
 <img src="images/rfid_systemarch.png?raw=true">
 
 Data is synchronized between the in-vehicle and handheld readers.  Both systems work offline, as much of Vermont is rural and without strong cell service.  Synchronization occurs upon reconnect.  Both readers can be used simultaneously without issues.
+
+## Screenshots:
+
+<img src="images/in_vehicle.png?raw=true">
+
+In-Vehicle software, running on Windows Laptop.  Built completely in-house.
+
+<img src="images/handheld.png?raw=true">
+
+Handheld software, running on iPad.  Built by me using TracerPlus.
