@@ -54,7 +54,7 @@ def create_user():
 
 <img src="images/csfair2018.jpg?raw=true">
 
-We were pretty proud of this project so we presented it at the 2018 UVM CS Fair.  I'm on the right.
+We presented this project at the 2018 UVM CS Fair.  I'm on the right.
 
 
 
