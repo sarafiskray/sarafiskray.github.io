@@ -63,11 +63,10 @@
 ### 2017
 
 ---
-## [Simple C++ App](/artgame)
+## [C++ Abstract Art](/artgame)
 
 <img src="images/art.png?raw=true"/>
 
-#### You can use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application, but it’s controversial. It’s hard to see trailing whitespace in an editor, and many people accidentally or intentionally put two spaces after every sentence. 
-
+#### This was an early university project, built for a C++ course.  The app started with a very simple idea, the ability to jump around the screen and paint.  This simple idea was not as simple to implement.
 
 
