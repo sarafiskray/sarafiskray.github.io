@@ -49,7 +49,7 @@
 
 <img src="images/pubadv2.jpg?raw=true" width="100%" />
 
-#### You can use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application, but it’s controversial. It’s hard to see trailing whitespace in an editor, and many people accidentally or intentionally put two spaces after every sentence. 
+#### The Landlord Watchlist is a project created by the NYC Office of the Public Advocate.  Its aim is to expose the worst landlords in NYC, providing names of the landlords, addresses of the properties, and number of housing violations.  During my time at the office, working on the Landlord Watchlist was one of my main tasks.  I wrote code in Python for data scraping from city data as well as creating APIs using Flask.  I also worked on optimizing the search engine.
 
 ---
 ## [Raspberry Pi Car Music Player](/rpi)
