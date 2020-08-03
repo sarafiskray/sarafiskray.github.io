@@ -2,6 +2,9 @@
 
 ---
 
+### 2020
+
+---
 
 ## [DJAZE iOS](/djaze)
 
@@ -17,6 +20,11 @@
 #### This project is a simple static website for a fake Italian restaurant.  This was the final project for a web design course, taught in only HTML and CSS.  It was built over a short period of time in order to demonstrate our proficiency in CSS. 
 
 ---
+
+### 2019
+
+---
+
 ## [VTrans RFID Sign Management](/vtrans)
 
 <img src="images/vtranslogo.png?raw=true"/>
@@ -25,6 +33,11 @@
 
 
 ---
+
+### 2018
+
+---
+
 ## [Millennial Recipe System](/recipe)
 
 <img src="images/millenial.png?raw=true" />
@@ -44,6 +57,10 @@
 <img src="images/piplayer.png?raw=true"/>
 
 #### You can use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application, but it’s controversial. It’s hard to see trailing whitespace in an editor, and many people accidentally or intentionally put two spaces after every sentence. 
+
+---
+
+### 2017
 
 ---
 ## [Simple C++ App](/artgame)
