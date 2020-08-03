@@ -56,7 +56,7 @@
 
 <img src="images/piplayer.png?raw=true"/>
 
-#### You can use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application, but it’s controversial. It’s hard to see trailing whitespace in an editor, and many people accidentally or intentionally put two spaces after every sentence. 
+#### I built this project for a computer organization course, for which the final project required use of a Raspberry Pi.  I created a car music player because I felt it would be both fun and functional.  It is easy to lose cell signal in Vermont, and this project is designed to work offline.  In addition, it was also an aesthetic upgrade to an old car.  This project was built using Python and the Kivy library.
 
 ---
 
