@@ -7,14 +7,14 @@
 
 <img src="images/spotifyfire.png?raw=true" width="100%"/>
 
-#### DJAZE is an iOS application designed for bar and partygoers, written entirely in Swift.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebases.
+#### DJAZE is an iOS application designed for bar and partygoers, written entirely in Swift.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebase.
 
 ---
 ## [Italian Restaurant Website](/italian)
 
 <img src="images/italianresto.png?raw=true"/>
 
-#### This project is a website for a fake Italian restaurant, created with HTML and CSS.  It was built over a short period of time in order to demonstrate our proficiency in CSS. 
+#### This project is a simple static website for a fake Italian restaurant.  This was the final project for a web design course, taught in only HTML and CSS.  It was built over a short period of time in order to demonstrate our proficiency in CSS. 
 
 ---
 ## [VTrans RFID Sign Management](/vtrans)
@@ -25,11 +25,11 @@
 
 
 ---
-## [Millenial Recipe System](/recipe)
+## [Millennial Recipe System](/recipe)
 
 <img src="images/millenial.png?raw=true" />
 
-#### You can use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application, but it’s controversial. It’s hard to see trailing whitespace in an editor, and many people accidentally or intentionally put two spaces after every sentence. 
+#### The Millennial Recipe System was one of the first full-stack applications that I worked on.  It was built with MongoDB, a Flask API hosted on AWS, and a React front-end.  My focus for this project was on the back-end.  This project was built for a software engineering course. 
 
 ---
 ## [Landlord Watchlist](/pubadv)
