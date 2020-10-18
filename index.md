@@ -47,7 +47,10 @@
 ---
 ## [Landlord Watchlist](/pubadv)
 
-[<img src="images/nycpa_jumaane.png?raw=true"  height="220" />](/pubadv)
+<p align="center">
+<a href="https://sarafiskray.github.io/pubadv">
+<img src="images/nycpa_jumaane.png?raw=true" height="220"/></a>
+</p>
 
 #### The Landlord Watchlist is a project created by the NYC Office of the Public Advocate.  Its aim is to expose the worst landlords in NYC, providing names of the landlords, addresses of the properties, and number of housing violations.  During my time at the office, working on the Landlord Watchlist was one of my main tasks.  I wrote code in Python for data scraping from city data as well as creating APIs using Flask.  I also worked on optimizing the search engine.
 
