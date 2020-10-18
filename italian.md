@@ -1,4 +1,5 @@
-# [Italian Restaurant Website](https://skray.w3.uvm.edu/cs142/live-final/)
+# Simple Italian Restaurant Website
+### <a href="https://github.com/CS-142-Spring-2020/Final-Devon-Havers" target="_blank">GitHub Repository</a>
 
 <img src="images/italianresto.png?raw=true"/>
 
@@ -7,4 +8,4 @@ This project is a website for a fake Italian restaurant meant to demonstrate our
 
 ### Visit the full website [here](https://skray.w3.uvm.edu/cs142/live-final/).
 
-This project was built with my friend and fellow software developer [Devon Havers](https://github.com/Devon66h).
+This project was built with my friend and fellow developer [Devon Havers](https://github.com/Devon66h).

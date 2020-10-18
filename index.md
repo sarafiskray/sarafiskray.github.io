@@ -13,7 +13,7 @@
 #### DJAZE is an iOS application designed for bar and partygoers, written entirely in Swift.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebase.
 
 ---
-## [Italian Restaurant Website](/italian)
+## [Simple Italian Restaurant Website](/italian)
 
 [<img src="images/italianresto.png?raw=true"/>](/italian)
 
