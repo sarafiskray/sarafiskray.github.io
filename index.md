@@ -57,7 +57,10 @@
 ---
 ## [Raspberry Pi Car Music Player](/rpi)
 
-[<img src="images/piplayer.png?raw=true"/>](/rpi)
+<p align="center">
+<a href="https://sarafiskray.github.io/rpi">
+<img src="images/prius.jpg?raw=true" height="220"/></a>
+</p>
 
 #### I built this project for a computer organization course, for which the final project required use of a Raspberry Pi.  I created a car music player because I felt it would be both fun and functional.  It is easy to lose cell signal in Vermont, and this project is designed to work offline.  In addition, it was also an aesthetic upgrade to an old car.  This project was built using Python and the Kivy library.
 

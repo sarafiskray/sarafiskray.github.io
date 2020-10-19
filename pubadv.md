@@ -1,8 +1,7 @@
 # Landlord Watchlist
 
 <p align="center">
-<a href="https://sarafiskray.github.io/pubadv">
-<img src="images/nycpa_jumaane.png?raw=true" height="220"/></a>
+<img src="images/nycpa_jumaane.png?raw=true" height="220"/>
 </p>
 
 **Project Description:**
