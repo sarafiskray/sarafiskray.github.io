@@ -1,6 +1,7 @@
-# [C++ Abstract Art](https://github.com/sarafiskray/Art-Game)
+# C++ Abstract Art
+### <a href="https://github.com/sarafiskray/Art-Game" target="_blank">GitHub Repository</a>
 
-<img src="images/art.png?raw=true" width="100%" />
+<img src="images/brush.jpg?raw=true" width="100%" />
 
 **Project Description:**
 This project was an early university project built for a C++ course.  Our goal was to create an application that allows the user to move around and create art.  What started as a simple idea was not so simple to implement.  
