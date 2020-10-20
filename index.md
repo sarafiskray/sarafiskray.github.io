@@ -65,7 +65,7 @@
 
 ## [C++ Abstract Art](/artgame)
 
-[<img src="images/restaurantlogo.jpg?raw=true"/>](/artgame)
+[<img src="images/art.png?raw=true"/>](/artgame)
 
 #### This was an early university project, built for a C++ course.  The app started with a very simple idea, the ability to jump around the screen and paint.  This simple idea was not as simple to implement.  You can download and try for yourself!
 
@@ -74,7 +74,7 @@
 
 ## [Simple Italian Restaurant Website](/italian)
 
-[<img src="images/italianresto.png?raw=true"/>](/italian)
+[<img src="images/restaurantlogo.jpg?raw=true"/>](/italian)
 
 #### This project is a simple static website for a fake Italian restaurant.  This was the final project for a web design course, taught in only HTML and CSS.  It was built over a short period of time in order to demonstrate our proficiency in CSS.     
 
