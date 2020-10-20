@@ -65,7 +65,7 @@
 
 ## [C++ Abstract Art](/artgame)
 
-[<img src="images/art.png?raw=true"/>](/artgame)
+[<img src="images/restaurantlogo.jpg?raw=true"/>](/artgame)
 
 #### This was an early university project, built for a C++ course.  The app started with a very simple idea, the ability to jump around the screen and paint.  This simple idea was not as simple to implement.  You can download and try for yourself!
 
