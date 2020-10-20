@@ -28,7 +28,7 @@
 
 ## [Millennial Recipe System](/recipe)
 
-[<img src="images/millenial.png?raw=true" />](/recipe)
+[<img src="images/flaskpymongo.jpg?raw=true"  />](/recipe)
 
 #### The Millennial Recipe System was one of the first full-stack applications that I worked on.  It was built with MongoDB, a Flask API hosted on AWS, and a React front-end.  My focus for this project was on the back-end.  This project was built for a software engineering course. 
 
