@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="images/spotify_large.jpg?raw=true" width="100%" />
+<img src="images/spotify_large.png?raw=true" width="100%" />
 
 <br>
 
