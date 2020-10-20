@@ -15,7 +15,11 @@
 
 ## [VTrans RFID Sign Management](/vtrans)
 
+<br>
+
 [<img src="images/vtrans_large.png?raw=true"/>](/vtrans)
+
+<br>
 
 #### Funded by the Vermont Agency of Transportation, I worked in a small team of University of Vermont students and professors to develop a complete RFID Traffic Sign Management System.  Traffic signage inventory management is an important, though often overlooked, part of transportation asset management.  I was in charge of development of the mobile reader. 
 
