@@ -1,8 +1,6 @@
 ## Project Portfolio
 
----
 
-### 2020
 
 ---
 
@@ -12,16 +10,6 @@
 
 #### DJAZE is an iOS application designed for bar and partygoers, written entirely in Swift.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebase.
 
----
-## [Simple Italian Restaurant Website](/italian)
-
-[<img src="images/italianresto.png?raw=true"/>](/italian)
-
-#### This project is a simple static website for a fake Italian restaurant.  This was the final project for a web design course, taught in only HTML and CSS.  It was built over a short period of time in order to demonstrate our proficiency in CSS. 
-
----
-
-### 2019
 
 ---
 
@@ -34,17 +22,15 @@
 
 ---
 
-### 2018
-
----
-
 ## [Millennial Recipe System](/recipe)
 
 [<img src="images/millenial.png?raw=true" />](/recipe)
 
 #### The Millennial Recipe System was one of the first full-stack applications that I worked on.  It was built with MongoDB, a Flask API hosted on AWS, and a React front-end.  My focus for this project was on the back-end.  This project was built for a software engineering course. 
 
+
 ---
+
 ## [Landlord Watchlist](/pubadv)
 
 <p align="center">
@@ -54,7 +40,9 @@
 
 #### The Landlord Watchlist is a project created by the NYC Office of the Public Advocate.  Its aim is to expose the worst landlords in NYC, providing names of the landlords, addresses of the properties, and number of housing violations.  During my time at the office, working on the Landlord Watchlist was one of my main tasks.  I wrote code in Python for data scraping from city data as well as creating APIs using Flask.  I also worked on optimizing the search engine.
 
+
 ---
+
 ## [Raspberry Pi Car Music Player](/rpi)
 
 <p align="center">
@@ -64,15 +52,26 @@
 
 #### I built this project for a computer organization course, for which the final project required use of a Raspberry Pi.  I created a car music player because I felt it would be both fun and functional.  It is easy to lose cell signal in Vermont, and this project is designed to work offline.  In addition, it was also an aesthetic upgrade to an old car.  This project was built using Python and the Kivy library.
 
----
-
-### 2017
 
 ---
+
+### Smaller Projects
+
+---
+
 ## [C++ Abstract Art](/artgame)
 
 [<img src="images/art.png?raw=true"/>](/artgame)
 
 #### This was an early university project, built for a C++ course.  The app started with a very simple idea, the ability to jump around the screen and paint.  This simple idea was not as simple to implement.  You can download and try for yourself!
+
+
+---
+
+## [Simple Italian Restaurant Website](/italian)
+
+[<img src="images/italianresto.png?raw=true"/>](/italian)
+
+#### This project is a simple static website for a fake Italian restaurant.  This was the final project for a web design course, taught in only HTML and CSS.  It was built over a short period of time in order to demonstrate our proficiency in CSS.     
 
 
