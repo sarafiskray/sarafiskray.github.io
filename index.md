@@ -1,6 +1,12 @@
 ## Project Portfolio
 
-
+<!-- 
+Things to do still:
+-resize vtrans and mongodb images
+-smiling picture
+-widen margins
+-wrap c++ proj in .exe
+-->
 
 ---
 

@@ -8,7 +8,7 @@ This project was an early university project built for a C++ course.  Our goal w
 
 ## Download:
 
-To get started, download the code from the [GitHub Repository](https://github.com/sarafiskray/Art-Game) or directly [here](/szip/C++_Abstract_Art.zip).  Open main.cpp in your favorite C++ IDE (I use CLion), press Run, and enjoy.
+To get started, download the code from the <a href="https://github.com/sarafiskray/Art-Game" target="_blank">GitHub Repository</a> or directly <a href="/zip/C++_Abstract_Art.zip" target="_blank">here</a>.  Open main.cpp in your favorite C++ IDE (I use CLion), press Run, and enjoy.
 
 ## Screenshots:
 
@@ -22,4 +22,4 @@ Abstract art
 
 ---
 
-This project was built with my friend and fellow software developer [Josh Rothenberg](https://github.com/joshenberg).
+This project was built with my friend and fellow software developer <a href="https://github.com/joshenberg" target="_blank">Josh Rothenberg</a>.
