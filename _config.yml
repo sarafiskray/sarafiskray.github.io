@@ -1,9 +1,13 @@
-title: Saraf Ray # your name (or website title) here
+title: Project Portfolio # your name (or website title) here
 logo: "/images/newheadshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Hello, my name is Saraf!  I am a software engineer from Brooklyn.
+  <p style="font-size: large">
+  Hello, my name is Saraf!  
   <br><br>
+  I am a software engineer from Brooklyn.
+  <br><br>
+
   I enjoy learning new concepts and building software that has a positive impact.  Some of my other interests include hiking, biking, cooking and watching sports.  I am also trilingual in English, Spanish, and Bengali.
   <br><br>
   I am open to full time work!
