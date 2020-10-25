@@ -1,4 +1,5 @@
 # DJAZE iOS
+<i class="fa fa-car"></i>
 ### <a href="https://github.com/sarafiskray/DJAZE" target="_blank">GitHub Repository</a>
 
 
