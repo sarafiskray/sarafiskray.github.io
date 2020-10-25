@@ -1,4 +1,4 @@
-<i style="float: right; font-size:100px; " class="fa fa-long-arrow-left"></i>
+<i style="float: right; font-size:60px; " class="fa fa-chevron-left">Back</i>
 # DJAZE iOS
 ### <a href="https://github.com/sarafiskray/DJAZE" target="_blank">GitHub Repository</a>
 
