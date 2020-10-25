@@ -1,8 +1,10 @@
+<div class="back">
+    
 <a href="https://sarafiskray.github.io/"> 
 <div class="back">
 <i style="font-size: 20px;" class="fa fa-chevron-left"></i> Back 
 </div>
-</a>
+</a></div>
 
 # DJAZE iOS
 ### <a href="https://github.com/sarafiskray/DJAZE" target="_blank">GitHub Repository</a>
