@@ -1,6 +1,7 @@
+<a href="https://sarafiskray.github.io/"> 
 <div class="back">
-<a href="https://sarafiskray.github.io/">
-<i style="font-size: 20px;" class="fa fa-chevron-left"></i> Back </div>
+<i style="font-size: 20px;" class="fa fa-chevron-left"></i> Back 
+</div>
 </a>
 
 # DJAZE iOS
