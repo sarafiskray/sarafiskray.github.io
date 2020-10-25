@@ -2,6 +2,7 @@
 
 <!-- 
 Things to do still:
+- make headshot clickable to go to home
 -resize vtrans and mongodb images
 - about me link on top right
 -wrap c++ proj in .exe
