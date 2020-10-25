@@ -1,5 +1,7 @@
 <div class="back">
-<i style="font-size: 30px;" class="fa fa-chevron-left"></i> Back </div>
+<a href="https://sarafiskray.github.io/">
+<i style="font-size: 20px;" class="fa fa-chevron-left"></i> Back </div>
+</a>
 
 # DJAZE iOS
 ### <a href="https://github.com/sarafiskray/DJAZE" target="_blank">GitHub Repository</a>
