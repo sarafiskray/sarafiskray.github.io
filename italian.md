@@ -1,3 +1,11 @@
+<div class="back">
+ 
+<a href="https://sarafiskray.github.io/"> 
+<div class="back">
+<i style="font-size: 20px;" class="fa fa-chevron-left"></i> Back 
+</div>
+</a></div>
+
 # Simple Italian Restaurant Website
 ### <a href="https://github.com/CS-142-Spring-2020/Final-Devon-Havers" target="_blank">GitHub Repository</a>
 

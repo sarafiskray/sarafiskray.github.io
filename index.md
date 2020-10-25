@@ -3,8 +3,7 @@
 <!-- 
 Things to do still:
 -resize vtrans and mongodb images
--smiling picture
--widen margins
+- about me link on top right
 -wrap c++ proj in .exe
 -->
 
