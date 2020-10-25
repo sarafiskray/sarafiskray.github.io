@@ -1,5 +1,5 @@
+<i style="float: right; font-size:100px; " class="fa fa-long-arrow-left"></i>
 # DJAZE iOS
-<i class="fa fa-car"></i>
 ### <a href="https://github.com/sarafiskray/DJAZE" target="_blank">GitHub Repository</a>
 
 
