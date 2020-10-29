@@ -1,3 +1,4 @@
+<!-- <h2 style="float: right">About Me</h2> -->
 ## Project Portfolio
 
 <!-- 
@@ -6,6 +7,7 @@ Things to do still:
 -resize vtrans and mongodb images
 - about me link on top right
 -wrap c++ proj in .exe
+- css media queries for mobile
 -->
 
 ---
