@@ -19,10 +19,17 @@
   color: black;
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 960px) and (min-width: 750px) {
 
   .description {
-    display: none;
+    width: 30%;
+    padding-right: 10px;
+    float: left;
   }
-  
+
+  .projects {
+    width: 60%;
+    float: left;
+  }
+
 }
