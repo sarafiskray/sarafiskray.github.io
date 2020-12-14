@@ -9,6 +9,7 @@
 <br>
 
 # Millennial Recipe System
+### <a href="https://github.com/sarafiskray/CS205RecipeSystem" target="_blank">GitHub Repository</a>
 
 <img src="images/flaskpymongo.jpg?raw=true" width="100%" />
 
