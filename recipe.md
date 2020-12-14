@@ -62,7 +62,7 @@ def create_user():
 
 ## CS Fair:
 
-<img src="images/csfair2018.jpg?raw=true" border-radius="5%">
+<img src="images/csfair2018.jpg?raw=true" class="picture">
 
 We presented this project at the 2018 UVM CS Fair.  I'm on the right.
 
