@@ -7,7 +7,6 @@
 </a></div>
 
 <br>
-<br>
 
 # Raspberry Pi Car Music Player
 ### <a href="https://github.com/sarafiskray/Pi-Car-Music-Player" target="_blank">GitHub Repository</a>

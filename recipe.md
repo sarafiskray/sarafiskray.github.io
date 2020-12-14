@@ -7,7 +7,6 @@
 </a></div>
 
 <br>
-<br>
 
 # Millennial Recipe System
 

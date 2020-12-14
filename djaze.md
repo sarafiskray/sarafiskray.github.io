@@ -7,7 +7,6 @@
 </a></div>
 
 <br>
-<br>
 
 # DJAZE iOS
 ### <a href="https://github.com/sarafiskray/DJAZE" target="_blank">GitHub Repository</a>
