@@ -21,7 +21,7 @@ Things to do still:
 
 ---
 
-## [VTrans RFID Sign Management](/vtrans)
+## [RFID Sign Management](/vtrans)
 
 <br>
 
