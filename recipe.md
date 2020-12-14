@@ -6,6 +6,9 @@
 </div>
 </a></div>
 
+<br>
+<br>
+
 # Millennial Recipe System
 
 <img src="images/flaskpymongo.jpg?raw=true" width="100%" />

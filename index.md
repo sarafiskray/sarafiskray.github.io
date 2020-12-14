@@ -64,7 +64,7 @@ Things to do still:
 
 #### I built this project for a computer organization course, for which the final project required use of a Raspberry Pi.  I created a car music player because I felt it would be both fun and functional.  It is easy to lose cell signal in Vermont, and this project is designed to work offline.  In addition, it was also an aesthetic upgrade to an old car.  This project was built using Python and the Kivy library.
 
-
+<!--  
 ---
 
 ### Smaller Projects
@@ -87,3 +87,4 @@ Things to do still:
 #### This was an early university project, built for a C++ course.  The app started with a very simple idea, the ability to jump around the screen and paint.  This simple idea was not as simple to implement.  You can download and try for yourself!
 
 
+-->
