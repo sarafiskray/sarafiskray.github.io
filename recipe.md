@@ -19,6 +19,7 @@ The Millennial Recipe System is a full-stack web application built with MongoDB,
 
 My focus on this project was the back-end.  I wanted to use a NoSQL database for this system, as different recipes can have a different number of ingredients.  In addition, I had some experience with Flask from working on the Landlord Watchlist.  The API was hosted on Amazon Web Services while the front-end React App was hosted on University of Vermont Silk.
 
+<!--  \
 ## Code Samples:
 
 Here are a couple API calls in Python using Flask, one GET method and one POST method.
@@ -57,10 +58,11 @@ def create_user():
     userId += 1
     return "Success"
 ```
+-->
 
 ## CS Fair:
 
-<img src="images/csfair2018.jpg?raw=true">
+<img src="images/csfair2018.jpg?raw=true" border-radius="5%">
 
 We presented this project at the 2018 UVM CS Fair.  I'm on the right.
 
