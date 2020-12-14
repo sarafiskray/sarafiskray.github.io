@@ -9,7 +9,7 @@
 # Raspberry Pi Car Music Player
 ### <a href="https://github.com/sarafiskray/Pi-Car-Music-Player" target="_blank">GitHub Repository</a>
 
-<img src="images/prius.jpg?raw=true" width="75%" margin-left="auto" margin-right="auto" display="block"/>
+<img src="images/prius.jpg?raw=true" class="center-img">
 
 <!--
 
