@@ -1,5 +1,5 @@
 <!-- <h2 style="float: right">About Me</h2> -->
-<i class="fas fa-chevron-circle-down"></i>
+<i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
 
 ## Project Portfolio
 
