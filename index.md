@@ -1,4 +1,6 @@
 <!-- <h2 style="float: right">About Me</h2> -->
+<i class="fas fa-chevron-circle-down"></i>
+
 ## Project Portfolio
 
 <!-- 
