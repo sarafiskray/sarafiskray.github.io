@@ -1,7 +1,7 @@
 <!-- <h2 style="float: right">About Me</h2> -->
 <div class="top">
 <button class="dropDownBtn">
-<i class="fa fa-chevron-circle-down" color="grey" aria-hidden="true"></i></button><h2 class="page-title">Project Portfolio</h2>
+<i class="fa fa-bars fa-2x" aria-hidden="true"></i></button><h1 class="page-title">Project Portfolio</h1>
 </div>
 <!-- 
 Things to do still:
