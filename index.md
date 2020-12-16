@@ -1,7 +1,11 @@
-<!-- <h2 style="float: right">About Me</h2> -->
 <div class="top">
+<!--  
 <button class="dropDownBtn">
-<i class="fa fa-bars fa-2x" aria-hidden="true"></i></button><h1 class="page-title">Project Portfolio</h1>
+<i class="fa fa-bars fa-2x" aria-hidden="true"></i></button> 
+when uncomment, also uncomment page-title margin rule from style.scss
+--> 
+
+<h1 class="page-title">Project Portfolio</h1>
 </div>
 <!-- 
 Things to do still:
