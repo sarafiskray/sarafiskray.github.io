@@ -3,10 +3,14 @@
 
 @import "{{ site.theme }}";
 
-
+.dropDownBtn {
+  border: none;
+  background-color: white;
+  outline: none;
+}
 .page-title {
   display: inline-block;
-  margin: 10px;
+  //margin: 10px;
 }
 .circle {
   border-radius: 50%;
@@ -57,3 +61,4 @@
   .page-title {
     margin-top: 0;
   }
+}

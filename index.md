@@ -1,6 +1,7 @@
 <!-- <h2 style="float: right">About Me</h2> -->
 <div class="top">
-<i class="fa fa-chevron-circle-down" aria-hidden="true"></i><h2 class="page-title">Project Portfolio</h2>
+<button class="dropDownBtn">
+<i class="fa fa-chevron-circle-down" color="grey" aria-hidden="true"></i></button><h2 class="page-title">Project Portfolio</h2>
 </div>
 <!-- 
 Things to do still:
