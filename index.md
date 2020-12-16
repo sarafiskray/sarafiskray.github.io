@@ -1,8 +1,7 @@
 <!-- <h2 style="float: right">About Me</h2> -->
-<i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
-
-## Project Portfolio
-
+<div class="top">
+<i class="fa fa-chevron-circle-down" aria-hidden="true"></i><h2 class="page-title">Project Portfolio</h2>
+</div>
 <!-- 
 Things to do still:
 - make headshot clickable to go to home
