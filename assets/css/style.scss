@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+
+.page-title {
+  display: inline-block;
+  margin: 10px;
+}
 .circle {
   border-radius: 50%;
   max-width: 100%;
