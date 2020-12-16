@@ -4,11 +4,9 @@
 </div>
 <!-- 
 Things to do still:
-- make headshot clickable to go to home
--resize vtrans and mongodb images
-- about me link on top right
--wrap c++ proj in .exe
-- css media queries for mobile
+- drop down + about me
+- fix grey line on tablet view
+- re read all content
 -->
 
 ---
