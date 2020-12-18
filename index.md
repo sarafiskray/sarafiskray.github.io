@@ -12,13 +12,13 @@ example from w3schools
 </div>
  -->
 
- 
+ <!--
 <button onclick="myFunction()" class="dropDownBtn">
 <i class="fa fa-bars fa-2x" aria-hidden="true"></i></button> 
 <div id="myDropdown" class="dropdown-content">
     <a href="#aboutme">About Me</a>
 </div>
-
+-->
 
 
 <h1 class="page-title">Project Portfolio</h1>
