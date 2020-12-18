@@ -1,9 +1,26 @@
+{% include functions.html %}
 <div class="top">
-<!--  
-<button class="dropDownBtn">
+
+<!-- 
+example from w3schools
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </div>
+</div>
+ -->
+
+ 
+<button onclick="myFunction()" class="dropDownBtn">
 <i class="fa fa-bars fa-2x" aria-hidden="true"></i></button> 
-when uncomment, also uncomment page-title margin rule from style.scss
---> 
+<div class="dropdown-content">
+    <a href="">About Me</a>
+</div>
+
+
 
 <h1 class="page-title">Project Portfolio</h1>
 </div>
