@@ -15,8 +15,8 @@ example from w3schools
  
 <button onclick="myFunction()" class="dropDownBtn">
 <i class="fa fa-bars fa-2x" aria-hidden="true"></i></button> 
-<div class="dropdown-content">
-    <a href="">About Me</a>
+<div id="myDropdown" class="dropdown-content">
+    <a href="#aboutme">About Me</a>
 </div>
 
 
@@ -92,7 +92,7 @@ function myFunction() {
 
 // Close the dropdown if the user clicks outside of it
 window.onclick = function(event) {
-  if (!event.target.matches('.dropbtn')) {
+  if (!event.target.matches('.dropDownBtn')) {
     var dropdowns = document.getElementsByClassName("dropdown-content");
     var i;
     for (i = 0; i < dropdowns.length; i++) {
