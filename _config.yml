@@ -5,12 +5,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p style="font-size: large">
   Hello, my name is Saraf!  
   <br><br>
-  I am a software engineer from Brooklyn. </p>
+  I am a software engineer from Brooklyn.
   <br><br>
-  I am open to full time work!
-  <br>
-  Email me at <a href="mailto:sarafiskray@gmail.com">sarafiskray@gmail.com</a>
-  <br><br>
+  <a href="https://sarafiskray.github.io/aboutme">About Me</a></p>
+  
   <a href="https://www.linkedin.com/in/saraf-ray-3a181814a/">View My LinkedIn Profile</a> 
   <br><br>
   <a href="https://github.com/sarafiskray">View My GitHub Profile</a>
