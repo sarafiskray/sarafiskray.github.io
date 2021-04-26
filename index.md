@@ -7,6 +7,14 @@ Things to do still:
 - fix grey line on tablet view
 - re read all content
 -->
+---
+
+## [NBA Player Comparison Tool](/nbatool)
+
+[<img src="images/nba-big-logo.png?raw=true" width="100%"/>](/nbatool)
+
+#### DJAZE is an iOS application designed for bar and partygoers, written entirely in Swift.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebase.
+
 
 ---
 
