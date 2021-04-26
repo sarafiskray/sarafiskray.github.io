@@ -20,7 +20,7 @@ Things to do still:
 
 <br>
 
-#### I built an NBA Player Comparison Tool, used to compare recent player performances.  I made this project using React and Recharts, with data coming from API-NBA by api-sports.  This application is designed for use on a computer or a tablet, however it functions on screens of all sizes.
+#### I designed and developed an NBA Player Comparison Tool, used to compare recent player performances.  This project was built using React and Recharts, with live data coming from API-NBA by api-sports.  It is designed for use on a computer or a tablet, however it functions on screens of all sizes.
 
 
 ---
@@ -63,7 +63,7 @@ Things to do still:
 <img src="images/nycpa_jumaane.png?raw=true" height="220"/></a>
 </p>
 
-#### The Landlord Watchlist is a project created by the NYC Office of the Public Advocate.  Its aim is to expose the worst landlords in NYC, providing names of the landlords, addresses of the properties, and number of housing violations.  During my time at the office, working on the Landlord Watchlist was one of my main tasks.  I wrote code in Python for data scraping from city data as well as creating APIs using Flask.  I also worked on optimizing the search engine.
+#### The Landlord Watchlist is a project created by the Office of the Public Advocate that exposes the worst landlords in NYC.  During my time at the office, I contributed to various aspects of the Landlord Watchlist.  I did data cleaning and data modeling using Python as well as developed a RESTful API using Flask.  I also wrote SQL queries to optimize the search engine and began the creation of a new search engine.
 
 
 ---

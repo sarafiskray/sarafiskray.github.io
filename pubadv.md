@@ -15,7 +15,7 @@
 </p>
 
 **Project Description:**
-The Landlord Watchlist is a project created by the NYC Office of the Public Advocate with the goal of exposing bad landlords throughout the city.  The website uses city data to show landlords by address and number of housing violations.  While working at the office, I wrote code in Python for multiple facets of the website, including data scraping, creating APIs, and search engine optimization.  It is important to note that when I worked in the office, the Public Advocate was Letitia James.  She is now the Attorney General and Jumaane D. Williams is the Public Advocate.  The website front-end has undergone some changes but the function remains the same.
+The Landlord Watchlist is a project created by the Office of the Public Advocate that exposes the worst landlords in NYC.  During my time at the office, I contributed to various aspects of the Landlord Watchlist.  I did data cleaning and data modeling using Python as well as developed a RESTful API using Flask.  I also wrote SQL queries to optimize the search engine and began the creation of a new search engine. 
 
 
-### <a href="https://landlordwatchlist.com/" target="_blank">View the current Landlord Watchlist.</a>
+### <a href="https://landlordwatchlist.com/" target="_blank">View the Landlord Watchlist.</a>
