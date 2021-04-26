@@ -9,6 +9,8 @@
 <br>
 
 # NBA Player Comparison Tool
+
+### <a href="https://sarafiskray.github.io/nets-app/" target="_blank">Live Site</a>   
 ### <a href="https://github.com/sarafiskray/nets-app" target="_blank">GitHub Repository</a>
 
 <br>
