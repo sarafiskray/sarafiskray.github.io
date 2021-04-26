@@ -20,7 +20,7 @@ Things to do still:
 
 <br>
 
-#### DJAZE is an iOS application designed for bar and partygoers, written entirely in Swift.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebase.
+#### I built an NBA Player Comparison Tool, used to compare recent player performances.  I made this project using React and Recharts, with data coming from API-NBA by api-sports.  This application is designed for use on a computer or a tablet, however it functions on screens of all sizes.
 
 
 ---
