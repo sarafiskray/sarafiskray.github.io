@@ -1,26 +1,4 @@
 <div class="top">
-
-<!-- 
-example from w3schools
-<div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
-    <a href="#contact">Contact</a>
-  </div>
-</div>
- -->
-
- <!--
-<button onclick="myFunction()" class="dropDownBtn">
-<i class="fa fa-bars fa-2x" aria-hidden="true"></i></button> 
-<div id="myDropdown" class="dropdown-content">
-    <a href="#aboutme">About Me</a>
-</div>
--->
-
-
 <h1 class="page-title">Project Portfolio</h1>
 </div>
 <!-- 
