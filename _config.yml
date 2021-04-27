@@ -9,7 +9,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://sarafiskray.github.io/aboutme">About Me</a></p>
   
-  <a href="https://www.linkedin.com/in/saraf-ray-3a181814a/"> <i class="fa fa-linkedin" aria-hidden="true"></i> </a> <a href="https://github.com/sarafiskray"> <i class="fa fa-github" aria-hidden="true"></i> </a>
+  <a href="https://www.linkedin.com/in/saraf-ray-3a181814a/"> <i class="fa fa-linkedin fa-2x" aria-hidden="true"></i> </a>      <a href="https://github.com/sarafiskray"> <i class="fa fa-github fa-2x" aria-hidden="true"></i> </a>
   
 theme: jekyll-theme-minimal
 
+ 
