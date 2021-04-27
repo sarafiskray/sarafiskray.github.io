@@ -6,9 +6,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hello, my name is Saraf!  
   <br><br>
   I am a software engineer from Brooklyn.
-  </p>
   <br><br>
-  <a href="https://sarafiskray.github.io/aboutme">About</a> <a href="https://www.linkedin.com/in/saraf-ray-3a181814a/"> <i class="fa fa-linkedin fa-2x" aria-hidden="true" style="padding-right:20px;"></i> </a> <p>   </p> <a href="https://github.com/sarafiskray"> <i class="fa fa-github fa-2x" aria-hidden="true"></i> </a>
+  <a href="https://sarafiskray.github.io/aboutme">About Me</a></p>
+  
+  <a href="https://www.linkedin.com/in/saraf-ray-3a181814a/"> <i class="fa fa-linkedin fa-3x" aria-hidden="true" style="padding-right:25px;"></i> </a> <p>   </p> <a href="https://github.com/sarafiskray"> <i class="fa fa-github fa-3x" aria-hidden="true"></i> </a>
   
 theme: jekyll-theme-minimal
 
