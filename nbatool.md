@@ -24,4 +24,4 @@
 **Project Description:**
 I designed and developed an NBA Player Comparison Tool, used to compare recent player performances.  This project was built using React and Recharts, with live data coming from API-NBA by api-sports.  It is designed for use on a computer or a tablet, however it functions on screens of all sizes.
 
-### <a href="https://sarafiskray.github.io/nets-app/" target="_blank">Check it out!</a>
+#### If you aren't familiar with any NBA players, try James Harden or Kyrie Irving.
