@@ -8,9 +8,10 @@
 
 <h1 class="page-title">About Me</h1>
 
-I am a recent graduate from the University of Vermont, where I studied Computer Science and Spanish.  I like to work all across the stack, but I lean more towards back-end development.  I enjoy working and learning with others and hopefully building software that has a positive impact. I currently work with Juni Learning, teaching one-on-one Zoom classes to elementary and middle school children in Python and JavaScript.
+I graduated from the University of Vermont in 2020, where I received a Bachelor's Degree in Computer Science.  I like to work all across the stack, but I lean towards back-end development.  I enjoy working and learning with others and hopefully building software that has a positive impact. I currently work with SportsDataIO, building systems that power commercial APIs as well internal tools used by the data operations department.
 
-Some of my other interests include hiking, biking, cooking, and sports.  I am also trilingual in English, Spanish, and Bengali.
+My other areas of interest include education and public transportation. Outside of technology, I also enjoy biking, cooking, and sports.  I am also trilingual in English, Spanish, and Bengali.
 
-I am open to full time work!
 Email me at <a href="mailto:sarafiskray@gmail.com">sarafiskray@gmail.com</a>
+
+Thanks for visiting my portfolio!

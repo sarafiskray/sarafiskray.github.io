@@ -25,15 +25,6 @@ Things to do still:
 
 ---
 
-## [DJAZE iOS](/djaze)
-
-[<img src="images/spotify_large.png?raw=true" width="100%"/>](/djaze)
-
-#### DJAZE is an iOS application designed for bar and partygoers, written entirely in Swift.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebase.
-
-
----
-
 ## [RFID Sign Management](/vtrans)
 
 <br>
@@ -47,15 +38,6 @@ Things to do still:
 
 ---
 
-## [Millennial Recipe System](/recipe)
-
-[<img src="images/flaskpymongo.jpg?raw=true"  />](/recipe)
-
-#### The Millennial Recipe System was one of the first full-stack applications that I worked on.  It was built with MongoDB, a Flask API hosted on AWS, and a React front-end.  My focus for this project was on the back-end.  This project was built for a software engineering course. 
-
-
----
-
 ## [Landlord Watchlist](/pubadv)
 
 <p align="center">
@@ -63,7 +45,16 @@ Things to do still:
 <img src="images/nycpa_jumaane.png?raw=true" height="220"/></a>
 </p>
 
-#### The Landlord Watchlist is a project created by the Office of the Public Advocate that exposes the worst landlords in NYC.  During my time at the office, I contributed to various aspects of the Landlord Watchlist.  I did data cleaning and data modeling using Python as well as developed a RESTful API using Flask.  I also wrote SQL queries to optimize the search engine and began the creation of a new search engine.
+#### The Landlord Watchlist is a project created by the Office of the Public Advocate that exposes the worst landlords in NYC.  During my time at the office, I contributed to various aspects of the Landlord Watchlist.  I did data cleaning and data modeling using Python as well as developed a RESTful API using Flask.  I also wrote SQL queries to optimize the search engine and began the creation of a new search engine. 
+
+
+---
+
+## [Millennial Recipe System](/recipe)
+
+[<img src="images/flaskpymongo.jpg?raw=true"  />](/recipe)
+
+#### The Millennial Recipe System was one of the first full-stack applications that I worked on.  It was built with MongoDB, a Flask API hosted on AWS, and a React front-end.  My focus for this project was on the back-end.  This project was built for a software engineering course.
 
 
 ---
@@ -77,6 +68,14 @@ Things to do still:
 
 #### I built this project for a computer organization course, for which the final project required use of a Raspberry Pi.  I created a car music player because I felt it would be both fun and functional.  It is easy to lose cell signal in Vermont, and this project is designed to work offline.  In addition, it was also an aesthetic upgrade to an old car.  This project was built using Python and the Kivy library.
 
+
+---
+
+## [DJAZE iOS](/djaze)
+
+[<img src="images/spotify_large.png?raw=true" width="100%"/>](/djaze)
+
+#### DJAZE is an iOS application designed for bar and partygoers, written entirely in Swift.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebase.
 
 
 
