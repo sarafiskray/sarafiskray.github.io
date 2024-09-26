@@ -15,7 +15,7 @@ Things to do still:
 
 <p align="center">
 <a href="https://sarafiskray.github.io/nbatool">
-<img src="images/nbalogo.svg?raw=true" width="200px" /> </a>
+<img src="images/graph_screenshot.png?raw=true" width="200px" /> </a>
 </p>
 
 <br>
