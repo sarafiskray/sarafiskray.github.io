@@ -69,14 +69,14 @@ Things to do still:
 #### I built this project for a computer organization course, for which the final project required use of a Raspberry Pi.  I created a car music player because I felt it would be both fun and functional.  It is easy to lose cell signal in Vermont, and this project is designed to work offline.  In addition, it was also an aesthetic upgrade to an old car.  This project was built using Python and the Kivy library.
 
 
----
+<!-- ---
 
 ## [DJAZE iOS](/djaze)
 
 [<img src="images/spotify_large.png?raw=true" width="100%"/>](/djaze)
 
 #### DJAZE is an iOS application designed for bar and partygoers, written entirely in Swift.  It is a two-sided application featuring a live song request system and a democratic upvote and downvote system.  Implemented using the Spotify Web API and Google Firebase.
-
+ -->
 
 
 <!--  
