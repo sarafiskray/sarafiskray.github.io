@@ -1,0 +1,334 @@
+/* ============================================================
+   Saraf Ray — portfolio styles
+   Palette: deep slate, off-white text, scoreboard-amber accent.
+   Type: Spectral (prose) + IBM Plex Mono (labels & metadata).
+   ============================================================ */
+
+:root {
+  --bg: #171123;
+  --text: #eae6f2;
+  --muted: #a79fbb;
+  --faint: #776f8e;
+  --accent: #b79ced;
+  --line: #2a2438;
+  --measure: 41rem;
+  --serif: "Spectral", "Iowan Old Style", Georgia, serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--bg);
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+section[id] {
+  scroll-margin-top: 2rem;
+}
+
+/* subtle backdrop: faint dot grid + soft glow at the top.
+   To remove the pattern, delete this body::before block. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image: radial-gradient(
+      ellipse 90% 55% at 50% -10%,
+      rgba(183, 156, 237, 0.08),
+      transparent 60%
+    ),
+    radial-gradient(circle, rgba(234, 230, 242, 0.05) 1px, transparent 1px);
+  background-size:
+    100% 100%,
+    26px 26px;
+}
+
+body {
+  margin: 0;
+  font-family: var(--serif);
+  font-weight: 300;
+  font-size: 1.0625rem; /* 17px */
+  line-height: 1.75;
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.page {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 5.5rem 1.5rem 4rem;
+}
+
+/* ---------------- header ---------------- */
+
+h1 {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 2.375rem;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+  margin: 0 0 0.75rem;
+}
+
+.location {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 2.75rem;
+}
+
+.tagline {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: var(--text);
+  margin: 0 0 2rem;
+  max-width: 34rem;
+}
+
+/* anchor navigation */
+.anchor-nav {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 1.4rem;
+}
+
+.anchor-nav a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 2px;
+  transition: color 140ms ease, border-color 140ms ease;
+}
+
+.anchor-nav a:hover {
+  color: var(--text);
+  border-color: var(--accent);
+}
+
+/* ---------------- shared ---------------- */
+
+p {
+  margin: 0 0 1.25rem;
+}
+
+a {
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-color: var(--faint);
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
+  transition: text-decoration-color 140ms ease;
+}
+
+a:hover {
+  text-decoration-color: var(--accent);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+section {
+  margin-top: 4.25rem;
+}
+
+/* section labels */
+.section-label {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--faint);
+  margin: 0 0 1.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--line);
+}
+
+/* ---------------- education ---------------- */
+
+.school {
+  margin-bottom: 1.75rem;
+}
+
+.school .work-head {
+  margin-bottom: 0.25rem;
+}
+
+.school-line {
+  font-family: var(--mono);
+  font-size: 0.8125rem;
+  color: var(--muted);
+  margin: 0 0 0.4rem;
+}
+
+.school-detail {
+  color: var(--muted);
+  margin: 0;
+}
+
+.languages {
+  margin: 2rem 0 0;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+}
+
+/* ---------------- contact ---------------- */
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contact-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 1.25rem;
+  padding: 0.6rem 0;
+}
+
+.contact-label {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--faint);
+  min-width: 5.5rem;
+}
+
+.contact-list a {
+  font-family: var(--mono);
+  font-size: 0.875rem;
+  color: var(--text);
+  word-break: break-all;
+}
+
+/* ---------------- work ---------------- */
+
+.work-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 1rem;
+  margin-bottom: 0.875rem;
+}
+
+.work-head h3 {
+  font-family: var(--serif);
+  font-size: 1.375rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+.work-head .period {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--faint);
+  letter-spacing: 0.04em;
+}
+
+.work-role {
+  font-family: var(--mono);
+  font-size: 0.8125rem;
+  color: var(--muted);
+  margin: 0 0 1rem;
+}
+
+.highlights {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+}
+
+.highlights li {
+  padding: 0.875rem 0;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+}
+
+.highlights li:first-child {
+  border-top: none;
+  padding-top: 0;
+}
+
+/* ---------------- projects ---------------- */
+
+.project {
+  margin-bottom: 2.75rem;
+}
+
+.project:last-child {
+  margin-bottom: 0;
+}
+
+.project h3 {
+  font-family: var(--serif);
+  font-size: 1.375rem;
+  font-weight: 500;
+  margin: 0 0 0.35rem;
+}
+
+.project .meta {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--faint);
+  letter-spacing: 0.04em;
+  margin: 0 0 0.75rem;
+}
+
+.project p {
+  color: var(--muted);
+  margin: 0;
+}
+
+/* ---------------- footer ---------------- */
+
+footer {
+  margin-top: 5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line);
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--faint);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+/* ---------------- small screens ---------------- */
+
+@media (max-width: 480px) {
+  .page {
+    padding-top: 4rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .tagline {
+    font-size: 1.125rem;
+  }
+}
