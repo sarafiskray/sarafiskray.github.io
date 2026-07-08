@@ -28,9 +28,9 @@ This replaces the contents of your `sarafiskray.github.io` repository.
 **Recommended: GitHub Actions (already set up in this repo)**
 
 1. Back up your current repo (rename it or make a branch — see caveat below).
-2. Push this project to `sarafiskray/sarafiskray.github.io`, branch `main`.
+2. Push this project to `sarafiskray/sarafiskray.github.io`, branch `master`.
 3. In the repo: Settings → Pages → Source → select **"GitHub Actions"**.
-4. Every push to `main` now builds and deploys automatically via
+4. Every push to `master` now builds and deploys automatically via
    `.github/workflows/deploy.yml`.
 
 Bonus: this gives you a real CI/CD pipeline to talk about in interviews.

@@ -1,10 +1,10 @@
-# Deploys the site to GitHub Pages on every push to main.
+# Deploys the site to GitHub Pages on every push to master.
 # One-time setup: repo Settings → Pages → Source: "GitHub Actions".
 name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   workflow_dispatch:
 
 permissions:
