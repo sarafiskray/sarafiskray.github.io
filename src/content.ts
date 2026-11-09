@@ -1,13 +1,5 @@
-// ============================================================
-// CONTENT — this is the only file you need to edit.
-// Anything marked [EDIT] is placeholder copy waiting for your
-// own words. Everything else (links, labels) is real data you
-// can tweak freely. The components in App.tsx just render this.
-// ============================================================
-
 export const site = {
   name: "Saraf Ray",
-  // Section headers — rename freely.
   sections: {
     about: "About Me",
     work: "Work",
@@ -15,7 +7,6 @@ export const site = {
     education: "Education",
     contact: "Contact",
   },
-  // Shown under your name. Keep it to one line.
   tagline: "Full-stack developer building live sports data systems.",
   location: "Brooklyn, NY",
   email: "sarafiskray@gmail.com",
@@ -26,27 +17,18 @@ export const site = {
   ],
 };
 
-// ------------------------------------------------------------
-// INTRO — a few sentences about who you are. Written in first
-// person, plain voice. [EDIT] — replace with your own words.
-// ------------------------------------------------------------
 export const intro: string[] = [
-  "Hey, my name is Saraf. I'm a software engineer from Brooklyn.",
-  "Outside of work, I enjoy being outdoors, playing/watching sports, riding my bike, eating food, and learning about pretty much anything.",
+  "I'm Saraf, a software engineer from Brooklyn.",
+  "Outside of work, I enjoy being outdoors, playing/watching sports, riding my bike, eating food, hanging with friends, and learning about pretty much anything.",
 ];
 
-// ------------------------------------------------------------
-// WORK — your current role. Deliberately written like a normal
-// "what I do" section, not a job application. [EDIT] all of it.
-// ------------------------------------------------------------
+
 export const work = {
   company: "SportsDataIO",
   role: "Full-Stack Developer",
   period: "2021 — present",
   summary:
     "I build and maintain  systems that ingest, store, and distribute millions of live sports data points a day — C#/.NET back-end, React front-end.",
-  // Short lines, not resume bullets. Each one is a thing you've
-  // built or own. Keep them terse; detail belongs in conversation.
   highlights: [
     "Global Sports API — technical lead. ~100 sports, thousands of leagues, real-time.",
     "Commercial APIs — around-the-clock support for sportsbooks, fantasy operators, and prediction markets that rely on accurate, up-to-the-second data.",
@@ -54,24 +36,22 @@ export const work = {
   ],
 };
 
-// ------------------------------------------------------------
-// PROJECTS — quality over quantity. Three is plenty.
-// ------------------------------------------------------------
+
 export type Project = {
   title: string;
-  href?: string; // omit to render without a link
-  meta: string; // small mono line: stack, year, context
+  href?: string;
+  meta: string;
   description: string;
 };
 
 export const projects: Project[] = [
-  {
-    title: "NBA Player Comparison Tool",
-    href: "https://sarafiskray.github.io/nets-app/",
-    meta: "React · Recharts · Live NBA data",
-    description:
-      "A simple tool used to compare recent NBA player performances.",
-  },
+ {
+  title: "NBA Stat Tool",
+  href: "https://sarafiskray.github.io/nets-app-2/",
+  meta: "React · TypeScript · Motion",
+  description:
+    "Compare NBA team stats and stats allowed over custom game and date ranges.",
+},
   {
     title: "Landlord Watchlist",
     href: "https://landlordwatchlist.com/",
@@ -95,10 +75,6 @@ export const projects: Project[] = [
   },
 ];
 
-// ------------------------------------------------------------
-// EDUCATION — schools listed newest-first. The `detail` line is
-// optional per entry (delete the property to omit it).
-// ------------------------------------------------------------
 export type School = {
   name: string;
   place: string;
@@ -128,12 +104,5 @@ export const education: School[] = [
   },
 ];
 
-// One line about languages, shown at the end of Education.
 export const languages =
   "Trilingual — English, Spanish, and Bengali.  I want to get to 5 languages someday.";
-
-// ------------------------------------------------------------
-// FOOTER
-// ------------------------------------------------------------
-export const colophon =
-  "Built with React + TypeScript. Set in Spectral & IBM Plex Mono.";

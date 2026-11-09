@@ -1,4 +1,4 @@
-import { site, intro, work, projects, education, languages, colophon } from "./content";
+import { site, intro, work, projects, education, languages } from "./content";
 
 function SectionLabel({ children }: { children: string }) {
   return <h2 className="section-label">{children}</h2>;
@@ -94,8 +94,8 @@ export default function App() {
       </section>
 
       <footer>
-        <span>© {new Date().getFullYear()} {site.name}</span>
-        <span>{colophon}</span>
+        <span>Thanks for Visiting</span>
+        {/* <span>{colophon}</span> */}
       </footer>
     </main>
   );
